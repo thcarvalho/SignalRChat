@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WfEpphWRoZe9JkRzMPAmC3wBq2o6kJ/6bALYvZE0eXs=",
+  "Source": "SignalAPI",
+  "BasePath": "_content/SignalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
